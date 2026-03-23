@@ -1,0 +1,22 @@
+[
+  {
+    "question": "How do I open a savings account?",
+    "answer": "You can open a savings account online by completing KYC, uploading identity/address proof, and funding the account with the minimum balance."
+  },
+  {
+    "question": "What is the minimum CIBIL score for a personal loan?",
+    "answer": "Most lenders prefer a CIBIL score of 700 or above for personal loan approval, but criteria vary by lender and profile."
+  },
+  {
+    "question": "How is EMI calculated?",
+    "answer": "EMI depends on principal, interest rate, and tenure. Standard reducing-balance EMI formula is used by banks and NBFCs."
+  },
+  {
+    "question": "How long does NEFT transfer take?",
+    "answer": "NEFT transactions are processed in batches throughout the day and are usually settled within a few hours."
+  },
+  {
+    "question": "Can I foreclose my loan early?",
+    "answer": "Yes, many lenders allow foreclosure, but prepayment or foreclosure charges may apply as per loan terms."
+  }
+]
